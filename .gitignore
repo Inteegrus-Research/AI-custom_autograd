@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+__pycache__/
+
+# Data
+*.edf
+*.npz
+data/
+cache/
+
+# OS generated files
+.DS_Store
